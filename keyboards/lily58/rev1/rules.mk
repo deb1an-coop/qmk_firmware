@@ -1,0 +1,3 @@
+CIRCUITPY_BOOT_ENTRY := 0xB2 Splinky RP2040 Slim
+OLED_ENABLE        = yes
+OLED_DRIVER_ENABLE = yes

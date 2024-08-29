@@ -20,4 +20,5 @@
 #define ENCODER_DEFAULT_POS 0x3
 
 /* Enable caps-lock LED */
-#define CAPS_LOCK_LED_INDEX 45
+// #define CAPS_LOCK_LED_INDEX 45
+#define QK_CAPS_WORD_TOGGLE KC_CAPS
